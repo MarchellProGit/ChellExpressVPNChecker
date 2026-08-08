@@ -6,6 +6,8 @@
 ### High-Speed ExpressVPN Account Verifier
 **Author: Marchell Adi Pratama • ChellSpace Security Labs**
 
+[![Visitors](https://komarev.com/ghpvc/?username=MarchellProGit-ChellExpressVPNChecker&color=0080FF&style=for-the-badge&label=VISITORS)](https://github.com/MarchellProGit/ChellExpressVPNChecker)
+[![Repo Size](https://img.shields.io/github/repo-size/MarchellProGit/ChellExpressVPNChecker?style=for-the-badge&color=38BDF8)](https://github.com/MarchellProGit/ChellExpressVPNChecker)
 [![Build](https://img.shields.io/badge/Build-v1.0.0--PROD-00ff41?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/MarchellProGit/ChellExpressVPNChecker/releases)
 [![Platform](https://img.shields.io/badge/Platform-Windows_10%2F11_x64-38BDF8?style=for-the-badge&logo=windows11&logoColor=white)](https://github.com/MarchellProGit/ChellExpressVPNChecker/releases)
 [![License](https://img.shields.io/badge/License-Proprietary_EULA-EF4444?style=for-the-badge&logo=shield&logoColor=white)](#terms-of-service--license)
