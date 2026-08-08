@@ -53,6 +53,15 @@ Built with a custom dark-mode desktop GUI and encrypted communication protocols,
 
 ---
 
+
+## Key Features
+
+- **[ ✦ ] Automated Account Validation**: Fast, concurrent checking of ExpressVPN credentials.
+- **[ ✦ ] Subscription Parsing**: Real-time extraction of active plan duration and renewal dates.
+- **[ ✦ ] Proxy Rotation Engine**: Integrated proxy support (HTTP/SOCKS) to prevent rate limits and IP bans.
+- **[ ✦ ] Secure Export**: Automated saving of valid hits to encrypted local storage with formatted logs.
+
+---
 ## System Architecture
 
 ```
